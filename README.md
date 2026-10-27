@@ -1,2 +1,2 @@
 # INJS-Connect
-EDUCATION
+INJS Connect est une plateforme numérique moderne dédiée à la communauté de l’Institut National de la Jeunesse et des Sports (INJS). Elle facilite l’accès aux annonces, emplois du temps, ressources pédagogiques, vidéos éducatives, événements et informations pratiques. Elle intègre également un assistant intelligent pour accompagner les étudiants, enseignants et personnels administratifs dans leurs activités. Accessible sur ordinateur et téléphone, INJS Connect vise à renforcer la communication, l’apprentissage et la vie universitaire.
